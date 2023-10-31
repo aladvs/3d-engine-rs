@@ -1,6 +1,6 @@
 # Lad-Engine-Rust
-WIP 3D engine using Rust and egui
+3D engine using Rust and egui
 
-Currently used only to host pages site for the demo, very WIP. Full code will be provided when the engine is done.
+Web build for https://github.com/lad_engine_rust
 
 Link: https://aladvs.github.io/Lad-Engine-Rust/

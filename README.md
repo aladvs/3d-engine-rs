@@ -3,4 +3,4 @@
 
 Web build for https://github.com/aladvs/lad_engine_rust
 
-Link: https://aladvs.github.io/Lad-Engine-Rust/
+Link: https://aladvs.github.io/lad_engine_web_demo/

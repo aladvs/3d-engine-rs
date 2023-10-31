@@ -1362,7 +1362,7 @@ async function __wbg_init(input) {
     if (wasm !== undefined) return wasm;
 
     if (typeof input === 'undefined') {
-        input = new URL('gamma_engine-379d32bd6195aacf_bg.wasm', import.meta.url);
+        input = new URL('gamma_engine-dd85e6e04d1227fc_bg.wasm', import.meta.url);
     }
     const imports = __wbg_get_imports();
 

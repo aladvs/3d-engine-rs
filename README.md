@@ -3,4 +3,4 @@
 
 Web build for https://github.com/aladvs/lad_engine_rust
 
-Link: https://aladvs.github.io/Lad-Engine-Rust-web
+use WASD + arrow keys for movement
